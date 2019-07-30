@@ -23,7 +23,11 @@
 * [HTML / CSS](#html--css)
   * [Bootstrap](#bootstrap)
 * [Java](#java)
+  * [Android](#android)
+  * [EasyMock](#easymock)
   * [Hibernate](#hibernate)
+  * [JDBC](#jdbc)
+  * [JUnit](#junit)
   * [Maven](#maven)
   * [Spring](#spring)
 * [JavaScript](#javascript)
@@ -55,6 +59,7 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Scilab](#scilab)
+* [Scratch](#scratch)
 * [Smalltalk](#smalltalk)
 * [SQL](#sql)
   * [PostgreSQL](#postgresql)
@@ -75,11 +80,14 @@
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (:construction:) (PDF)
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
+* [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp-ru-screen.pdf) - Гарольд Абельсон, Джералд Джей Сассман (PDF)
+* [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) - Святослав Куликов (PDF)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
 
 
 #### Работа с сетью
 
+* [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 
 
@@ -112,7 +120,7 @@
 
 ### Assembly
 
-* [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C)
+* [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C) - Викиучебник
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
 * [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) - Андрей Столяров (PDF)
@@ -130,7 +138,7 @@
 * [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
 * [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html) - Романов Е.Л.
-* [Язык Си в примерах](http://ru.wikibooks.org/wiki/Язык_Си_в_примерах)
+* [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах) - Викиучебник
 
 
 ### C Sharp
@@ -144,9 +152,10 @@
 
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
 * [Введение в язык Си++](http://stolyarov.info/books/cppintro) - Андрей Столяров (PDF)
-* [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс)
+* [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс) - Викиучебник
 * [Руководство по языку программирования C++](https://metanit.com/cpp/tutorial) - Евгений Попов
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
+* [Уроки по OpenGL 3](https://code.google.com/archive/p/gl33lessons/) - Гуревич Артём
 
 
 ### Clojure
@@ -195,8 +204,11 @@
 ### Haskell
 
 * [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
+* [Haskell: введение в функциональное программирование](https://wiki.nsunc.com/_export/html/haskell) - В.Н. Власов
 * [О Haskell по-человечески](https://www.ohaskell.guide) - Денис Шевченко
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
+* [Язык и библиотеки Haskell 98](http://www.haskell.ru) - Simon Peyton Jones
+* [Язык программирования Haskell: Учимся быть ленивыми](https://github.com/Number571/Haskell/tree/master/Book) - Г. Коваленко
 
 
 ### HTML / CSS
@@ -215,13 +227,18 @@
 
 ### Java
 
+* [Java Basics](http://www.fandroid.info/tutorial-po-osnovam-yazyka-programmirovaniya-java-dlya-nachinayushhih/)
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 * [Руководство по Java Core](http://proselyte.net/tutorials/java-core) - Евгений Сулейманов
 * [Руководство по Servlets](http://proselyte.net/tutorials/servlets) - Евгений Сулейманов
 * [Руководство по языку программирования Java](https://metanit.com/java/tutorial) - Евгений Попов
+* [Самоучитель по Java с нуля](https://vertex-academy.com/tutorials/ru/samouchitel-po-java-s-nulya/) - Vertex Academy
 * [Собеседование по Java Core](http://javastudy.ru/interview/list-of-question-java-interview)
 * [Собеседование по Java EE](http://javastudy.ru/interview/list-of-questions-javaee-interview)
 * [Учебник Java 8](https://urvanov.ru/2016/03/23/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA-java-8) - Фёдор Урванов
+* [Учебник по Java 8](https://vertex-academy.com/tutorials/ru/java-8-uchebnik/) - Vertex Academy
+* [Учебник по Java 9](https://vertex-academy.com/tutorials/ru/java-9-uchebnik-teoriya-primery/) - Vertex Academy
+* [Язык Java 8](https://easyjava.ru/java/yazyk-java/)
 
 
 #### Android
@@ -230,28 +247,38 @@
 * [Уроки по Android](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 
 
+#### EasyMock
+
+* [EasyMock 3](https://easyjava.ru/testirovanie/easymock/)
+
+
 #### Hibernate
 
+* [Hibernate](https://easyjava.ru/data/hibernate/)
 * [Руководство по Hibernate](http://proselyte.net/tutorials/hibernate-tutorial) - Евгений Сулейманов
 
 
 #### JDBC
 
+* [JDBC и Spring JDBC](https://easyjava.ru/data/jdbc/)
 * [Руководство по JDBC](http://proselyte.net/tutorials/jdbc) - Евгений Сулейманов
 
 
 #### JUnit
 
+* [JUnit 4](https://easyjava.ru/testirovanie/junit-2/)
 * [Руководство по JUnit](http://proselyte.net/tutorials/junit) - Евгений Сулейманов
 
 
 #### Maven
 
+* [Apache Maven](https://easyjava.ru/ekosistema/sredstva-sborki/apache-maven/)
 * [Руководство по Maven](http://proselyte.net/tutorials/maven) - Евгений Сулейманов
 
 
 #### Spring
 
+* [Spring Framework](https://easyjava.ru/spring/)
 * [Руководство по Spring](http://proselyte.net/tutorials/spring-tutorial-full-version) - Евгений Сулейманов
 
 
@@ -293,6 +320,7 @@
 
 #### React
 
+* [Путь к изучению React](https://leanpub.com/the-road-to-learn-react-russian) - Алексей Пыльцын (PDF, ePub, MOBI) *(Требуется аккаунт на Leanpub или действительный адрес электронной почты)*
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
 
@@ -319,7 +347,7 @@
 
 * [Common Lisp Cookbook (перевод)](http://lisper.ru/wiki/Cookbook)
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
-* [Practical Common Lisp (перевод)](http://lisper.ru/pcl) (PDF)
+* [Practical Common Lisp (перевод)](http://lisper.ru/pcl/) (PDF)
 
 
 ### MetaPost
@@ -362,6 +390,7 @@
 
 * [PHP: Правильный Путь](http://getjump.github.io/ru-php-the-right-way)
 * [Руководство по PHP](http://docs.php.net/manual/ru)
+* [Руководство по PHPUnit](https://phpunit.readthedocs.io/ru/latest/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher)
 
 
@@ -394,7 +423,7 @@
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
 * [Самоучитель Python](https://pythonworld.ru/samouchitel-python) (PDF)
 * [Укус Питона](http://wombat.org.ua/AByteOfPython) - Swaroop C H
-* [Учебник Python 2.6](http://ru.wikibooks.org/wiki/Учебник_Python_2.6)
+* [Учебник Python 2.6](https://ru.wikibooks.org/wiki/Учебник_Python_2.6) - Викиучебник
 
 
 #### Django
@@ -455,6 +484,11 @@
 * [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads)
 
 
+### Scratch
+
+* [Креативное программирование](https://www.dropbox.com/s/qsthpk5r6gqmi6u/CreativeComputing_RUS_june2016.pdf?dl=0) (PDF)
+
+
 ### Smalltalk
 
 * [Смолток: Язык и его реализация](https://sites.google.com/site/polyglotsqueak) - Адэль Голдберг, Дэвид Робсон
@@ -462,13 +496,16 @@
 
 ### SQL
 
+* [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) - Святослав Куликов (PDF)
 * [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver) - Евгений Попов
 * [Руководство по SQL](http://proselyte.net/tutorials/sql) - Евгений Сулейманов
+* [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer) (PDF)
 
 
 #### PostgreSQL
 
-* [PostgreSQL: Документация](https://postgrespro.ru/docs/postgresql) (PDF)
+* [PostgreSQL для начинающих](https://postgrespro.ru/education/books/introbook) (PDF)
+* [Документация](https://postgrespro.ru/docs/postgresql) (PDF)
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
 
